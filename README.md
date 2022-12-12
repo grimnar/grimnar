@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Python software engineer 🐍
+- Love production environment 🏭
+- Currently working on various Rustlang project 🦀
+- Would love to find a pyO3 subject in the next months 🌬️
+
 <!--
 **grimnar/grimnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
